@@ -1,5 +1,5 @@
 {
-    "name": "TLENS/CurlMulti",
+    "name": "Tlens/CurlMulti",
     "description": "Multi threaded curl requests",
     "keywords": ["curl", "multi"],
     "authors": [
