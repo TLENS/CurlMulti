@@ -31,5 +31,6 @@ echo "php execute time: " . round(microtime(true) - $microtime, 2) . PHP_EOL;
 echo "all curl times:" . round($allTime, 2) . "s.\n";
 exit;
 ```
-- php execute time: 11.15
-- all curl times:921.3s.
+- Result
+php execute time: 11.15
+all curl times:921.3s.
