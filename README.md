@@ -32,5 +32,7 @@ echo "all curl times:" . round($allTime, 2) . "s.\n";
 exit;
 ```
 - Result
+
 php execute time: 11.15
+
 all curl times:921.3s.
