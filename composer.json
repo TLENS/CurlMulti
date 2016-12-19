@@ -1,0 +1,15 @@
+{
+    "name": "CurlMulti",
+    "description": "Multi threaded curl requests",
+    "keywords": ["curl", "multi"],
+    "authors": [
+        {
+            "name": "TLENS",
+            "homepage": "https://github.com/TLENS"
+        }
+    ],
+    "require": {
+        "php": ">=7.0.0",
+        "ext-curl": "*"
+    }
+}
